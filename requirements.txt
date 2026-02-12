@@ -1,0 +1,7 @@
+tqdm
+<<<<<<< HEAD
+colorama
+
+=======
+colorama
+>>>>>>> 21b86ba0e9cfece94fcee3296ee07e47448ed313
